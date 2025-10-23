@@ -10,7 +10,7 @@ Dusty
 Clean
 Electrical Damage
 Snow Covered
-Physical Damage
+Physical Damage.
 
 
 The model is using pretrained Resnet. The training code is as below :-
