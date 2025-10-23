@@ -1,6 +1,7 @@
 -> Dataset Description:-
-Solar Panel Images Clean and Faulty Images 
-Sourced from Kaggle and then augemented as per Requirements:-
+
+->Solar Panel Images Clean and Faulty Images (Sourced from Kaggle and then augemented as per Requirements):-
+
 The dataset contains RGB images of solar panels captured using drones (UAVs) under real-world lighting and weather conditions.
 Each image is labeled according to the type of fault or soiling present on the panel.
 Images were preprocessed and resized to 224 × 224 pixels for compatibility with the ResNet model.
